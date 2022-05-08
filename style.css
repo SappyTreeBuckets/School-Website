@@ -3,3 +3,13 @@
     height: 500px;
     border: none;
 }
+.travel_mainDiv{
+    border: 5px solid darkgrey;
+    }
+    .travel_mainDiv img {
+        width: 100%;
+    }
+    .travel_mainDiv h5, .travel_mainDiv p{
+    margin: 20px;
+    }
+    
